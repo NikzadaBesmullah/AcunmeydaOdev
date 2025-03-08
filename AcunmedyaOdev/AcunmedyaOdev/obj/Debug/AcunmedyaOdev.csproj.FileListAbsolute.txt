@@ -1,0 +1,7 @@
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\bin\Debug\AcunmedyaOdev.exe.config
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\bin\Debug\AcunmedyaOdev.exe
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\bin\Debug\AcunmedyaOdev.pdb
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\obj\Debug\AcunmedyaOdev.csproj.AssemblyReference.cache
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\obj\Debug\AcunmedyaOdev.csproj.CoreCompileInputs.cache
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\obj\Debug\AcunmedyaOdev.exe
+C:\Users\besmu\source\repos\AcunmedyaOdev\AcunmedyaOdev\obj\Debug\AcunmedyaOdev.pdb
