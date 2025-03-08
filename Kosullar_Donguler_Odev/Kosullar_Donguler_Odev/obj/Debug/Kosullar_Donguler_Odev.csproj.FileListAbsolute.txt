@@ -1,0 +1,7 @@
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\bin\Debug\Kosullar_Donguler_Odev.exe.config
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\bin\Debug\Kosullar_Donguler_Odev.exe
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\bin\Debug\Kosullar_Donguler_Odev.pdb
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\obj\Debug\Kosullar_Donguler_Odev.csproj.AssemblyReference.cache
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\obj\Debug\Kosullar_Donguler_Odev.csproj.CoreCompileInputs.cache
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\obj\Debug\Kosullar_Donguler_Odev.exe
+C:\Acunmedya\Kosullar_Donguler_Odev\Kosullar_Donguler_Odev\obj\Debug\Kosullar_Donguler_Odev.pdb
