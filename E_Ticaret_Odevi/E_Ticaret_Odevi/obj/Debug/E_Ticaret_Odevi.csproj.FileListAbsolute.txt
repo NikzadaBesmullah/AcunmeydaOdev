@@ -1,0 +1,7 @@
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\obj\Debug\E_Ticaret_Odevi.csproj.AssemblyReference.cache
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\obj\Debug\E_Ticaret_Odevi.csproj.CoreCompileInputs.cache
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\bin\Debug\E_Ticaret_Odevi.exe.config
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\bin\Debug\E_Ticaret_Odevi.exe
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\bin\Debug\E_Ticaret_Odevi.pdb
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\obj\Debug\E_Ticaret_Odevi.exe
+C:\Acunmedya\E_Ticaret_Odevi\E_Ticaret_Odevi\obj\Debug\E_Ticaret_Odevi.pdb

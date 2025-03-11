@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acunmedya\\E_Ticaret_Odevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\banktansferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\banktansferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|c:\\acunmedya\\e_ticaret_odevi\\e_ticaret_odevi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|C:\\Acunmedya\\E_Ticaret_Odevi\\e_ticaret_odevi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8940A8B-824D-4AD2-8A86-6C4CD9C365C5}|E_Ticaret_Odevi\\E_Ticaret_Odevi.csproj|solutionrelative:e_ticaret_odevi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\IPayment.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\IPayment.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\IPayment.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:19:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\Order.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Order.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\Products.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Products.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\Products.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:07:46.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\Seller.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Seller.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:08:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Program.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Program.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Program.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Program.cs",
+              "ViewState": "AgIAAIsAAAAAmpmZmdkkwJIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:02:55.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\Customers.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Customers.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\Customers.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:08:50.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\CreditCardPayment.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\Cart.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Cart.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\Cart.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:09:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\Users.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\Users.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:08:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankTansferPayment.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\BankTansferPayment.cs",
+              "RelativeDocumentMoniker": "E_Ticaret_Odevi\\Models\\BankTansferPayment.cs",
+              "ToolTip": "C:\\Acunmedya\\E_Ticaret_Odevi\\E_Ticaret_Odevi\\Models\\BankTansferPayment.cs",
+              "RelativeToolTip": "E_Ticaret_Odevi\\Models\\BankTansferPayment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:10:10.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
