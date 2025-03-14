@@ -1,0 +1,23 @@
+﻿@model  List<NotDefteriWeb.Models.Note>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    
+        <h2>Notlar Listelendi</h2>
+        @foreach (var Notes in Model)
+            { 
+            <div id="Note_Notes.id">
+                <h2>@Notes.NoteTitle</h2>
+                <p>***@Notes.NoteContent</p>
+                <p>@Notes.NoteAddTime</p>
+            </div>
+               
+            }
+    
+</body>
+</html>
