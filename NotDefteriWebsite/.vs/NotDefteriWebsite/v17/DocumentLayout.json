@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acunmedya\\NotDefteriWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T01:07:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:31:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:42:01.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:16:26.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T00:50:04.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:43:20.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:43:33.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Program.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Program.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:32:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Models\\Note.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\Note.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:15:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:15:04.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
