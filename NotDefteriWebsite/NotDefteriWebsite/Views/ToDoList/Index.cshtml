@@ -1,0 +1,22 @@
+﻿@model List<ToDoList>
+
+<div class="container mt-5">
+    <h2>🗂️ Yapılacaklar Listesi</h2>
+
+    <ul class="list-group mt-4">
+        @foreach (var todo in Model)
+        {
+            <li class="list-group-item d-flex justify-content-between">
+                <span>@todo.Title</span>
+                @if (todo.IsDone)
+                {
+                    <span class="badge bg-success">Tamamlandı</span>
+                }
+                else
+                {
+                    <span class="badge bg-warning text-dark">Bekliyor</span>
+                }
+            </li>
+        }
+    </ul>
+</div>

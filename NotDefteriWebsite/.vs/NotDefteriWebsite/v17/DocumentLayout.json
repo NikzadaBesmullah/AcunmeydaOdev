@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acunmedya\\NotDefteriWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\models\\todolistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\models\\todolistrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\note\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\note\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|c:\\acunmedya\\notdefteriwebsite\\notdefteriwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{265A36FC-643A-43F7-A114-FC08451CCBF8}|NotDefteriWebsite\\NotDefteriWebsite.csproj|solutionrelative:notdefteriwebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Models\\Repository.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\Repository.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:23:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:06:54.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T18:05:33.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListRepo.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\ToDoListRepo.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Models\\ToDoListRepo.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\ToDoListRepo.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Models\\ToDoListRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:03:14.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\ToDoList.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Models\\ToDoList.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\ToDoList.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Models\\ToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:02:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Note\\index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:16:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Note\\Details.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Note\\Details.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Note\\Details.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Note\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T15:32:23.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Program.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Program.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:32:04.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_navbar.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Shared\\_navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T01:07:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Controllers\\ToDoListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:04:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:15:04.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Models\\Note.cs",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Models\\Note.cs",
+              "RelativeToolTip": "NotDefteriWebsite\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:15:47.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Acunmedya\\NotDefteriWebsite\\NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NotDefteriWebsite\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T23:43:33.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

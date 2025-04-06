@@ -1,0 +1,20 @@
+﻿@model Note
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-header bg-success text-white">
+            <h2 class="mb-0">@Model.NoteTitle</h2>
+        </div>
+        <div class="card-body">
+            <p class="text-justify" style="font-size: 1.1rem;">
+                <strong>İçerik:</strong> @Model.NoteContent
+            </p>  
+            <p class="text-justify" style="font-size: 1.1rem;">
+                <strong>Tarih:</strong> @Model.NoteAddTime
+            </p>
+        </div>
+        <div class="card-footer text-end">
+            <a asp-controller="Note" asp-action="Index" class="btn btn-outline-secondary">← Geri Dön</a>
+        </div>
+    </div>
+</div>

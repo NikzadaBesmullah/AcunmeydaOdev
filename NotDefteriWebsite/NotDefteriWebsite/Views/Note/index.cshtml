@@ -1,0 +1,83 @@
+﻿@model List<NotDefteriWebsite.Models.Note>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>Notlar</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+            .card:hover {
+                transform: translateY(-10px);
+            }
+
+        .card-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #343a40;
+        }
+
+        .card-subtitle {
+            font-size: 0.9rem;
+            color: #6c757d;
+        }
+
+        .card-text {
+            font-size: 1rem;
+            color: #495057;
+        }
+
+        .card-body {
+            padding: 1.5rem;
+        }
+
+        .btn-success {
+            background-color: #28a745;
+            border-color: #28a745;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-success:hover {
+                background-color: #218838;
+                border-color: #1e7e34;
+            }
+
+        .d-flex {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            gap: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="d-flex">
+            @foreach (var Model in Model)
+            {
+                <div class="card border-0" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.NoteTitle</h5>
+                        <h6 class="card-subtitle mb-2 text-body-secondary">Not id: @Model.Noteid</h6>
+                        <p class="card-text">Kategori: @Model.NoteCategory</p>
+                        <a asp-controller="Note" asp-action="Details" asp-route-id="@Model.Noteid" class="btn btn-success">Görüntüle</a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>
