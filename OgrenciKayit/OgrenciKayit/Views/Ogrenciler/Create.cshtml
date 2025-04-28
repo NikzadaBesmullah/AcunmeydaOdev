@@ -1,0 +1,105 @@
+﻿@model OgrenciKayit.Models.Ogreciler
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 50%;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #4CAF50;
+        }
+
+        .form-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .btn {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+            .btn:hover {
+                background-color: #45a049;
+            }
+
+        .btn-list {
+            background-color: #007bff;
+            margin-top: 10px;
+        }
+
+            .btn-list:hover {
+                background-color: #0069d9;
+            }
+
+        .btn-group {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<div class="container">
+    <h2>Yeni Öğrenci Ekle</h2>
+
+    <form asp-action="Create" method="post" class="form-container">
+        <div class="form-group">
+            <label for="FirstName">Ad:</label>
+            <input asp-for="FirstName" id="FirstName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="LastName">Soyad:</label>
+            <input asp-for="LastName" id="LastName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="Email">E-posta:</label>
+            <input asp-for="Email" id="Email" type="email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label for="StudentNumber">Öğrenci Numarası:</label>
+            <input asp-for="StudentNumber" id="StudentNumber" class="form-control" />
+        </div>
+
+        <div class="btn-group">
+            <button type="submit" class="btn">Kaydet</button>
+            
+        </div>
+    </form>
+</div>

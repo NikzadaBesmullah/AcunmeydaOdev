@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acunmedya\\OgrenciKayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\ogrenciler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\ogrenciler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\ogrenciler\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\ogrenciler\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\ogrenciler\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\ogrenciler\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\controllers\\ogrencilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\controllers\\ogrencilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Migrations\\20250428194416_AddStudentsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciKayit\\Migrations\\20250428194416_AddStudentsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\models\\ogrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\models\\ogrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\models\\ogreciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\models\\ogreciler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|c:\\acunmedya\\ogrencikayit\\ogrencikayit\\migrations\\20250428184602_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559CDC0-2E52-4BF2-AC12-815DB3BFE069}|OgrenciKayit\\OgrenciKayit.csproj|solutionrelative:ogrencikayit\\migrations\\20250428184602_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:13:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:13:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:08:51.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:02:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Ogrenciler\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\Ogrenciler\\Guncelle.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Ogrenciler\\Guncelle.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\Ogrenciler\\Guncelle.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:22:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Ogrenciler\\Listele.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\Ogrenciler\\Listele.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Ogrenciler\\Listele.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\Ogrenciler\\Listele.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T19:21:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Program.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Program.cs",
+              "RelativeToolTip": "OgrenciKayit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:34:43.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Ogrenciler\\Create.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\Ogrenciler\\Create.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\Ogrenciler\\Create.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\Ogrenciler\\Create.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T18:38:00.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OgrenciKayit\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T20:13:34.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "OgrenciKayit\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:18:14.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OgrDbContext.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Models\\OgrDbContext.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Models\\OgrDbContext.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Models\\OgrDbContext.cs",
+              "RelativeToolTip": "OgrenciKayit\\Models\\OgrDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:32:32.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrencilerController.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Controllers\\OgrencilerController.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Controllers\\OgrencilerController.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Controllers\\OgrencilerController.cs",
+              "RelativeToolTip": "OgrenciKayit\\Controllers\\OgrencilerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:35:12.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250428194416_AddStudentsTable.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Migrations\\20250428194416_AddStudentsTable.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Migrations\\20250428194416_AddStudentsTable.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Migrations\\20250428194416_AddStudentsTable.cs",
+              "RelativeToolTip": "OgrenciKayit\\Migrations\\20250428194416_AddStudentsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T19:44:16.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ogreciler.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Models\\Ogreciler.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Models\\Ogreciler.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Models\\Ogreciler.cs",
+              "RelativeToolTip": "OgrenciKayit\\Models\\Ogreciler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:31:35.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\appsettings.json",
+              "RelativeDocumentMoniker": "OgrenciKayit\\appsettings.json",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\appsettings.json",
+              "RelativeToolTip": "OgrenciKayit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T18:34:12.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OgrenciKayit\\appsettings.Development.json",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\appsettings.Development.json",
+              "RelativeToolTip": "OgrenciKayit\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T18:45:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250428184602_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Migrations\\20250428184602_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OgrenciKayit\\Migrations\\20250428184602_InitialCreate.cs",
+              "ToolTip": "C:\\Acunmedya\\OgrenciKayit\\OgrenciKayit\\Migrations\\20250428184602_InitialCreate.cs",
+              "RelativeToolTip": "OgrenciKayit\\Migrations\\20250428184602_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:46:02.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
