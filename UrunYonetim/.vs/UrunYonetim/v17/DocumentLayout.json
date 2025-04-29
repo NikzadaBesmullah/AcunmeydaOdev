@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acunmedya\\UrunYonetim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\urunyonetim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\urunyonetim.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|c:\\acunmedya\\urunyonetim\\urunyonetim\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280BA5D9-E9FE-4A37-B315-1471408BA1F2}|UrunYonetim\\UrunYonetim.csproj|solutionrelative:urunyonetim\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UrunYonetim\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "UrunYonetim\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:49:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Program.cs",
+              "RelativeDocumentMoniker": "UrunYonetim\\Program.cs",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Program.cs",
+              "RelativeToolTip": "UrunYonetim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:47:49.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UrunYonetim\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UrunYonetim\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:45:57.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "UrunYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "UrunYonetim\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:45:34.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "UrunYonetim\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "UrunYonetim\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:44:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Product\\index.cshtml",
+              "RelativeDocumentMoniker": "UrunYonetim\\Views\\Product\\index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Views\\Product\\index.cshtml",
+              "RelativeToolTip": "UrunYonetim\\Views\\Product\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T14:44:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrunYonetim",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\UrunYonetim.csproj",
+              "RelativeDocumentMoniker": "UrunYonetim\\UrunYonetim.csproj",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\UrunYonetim.csproj",
+              "RelativeToolTip": "UrunYonetim\\UrunYonetim.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T14:42:49.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UrunYonetim\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UrunYonetim\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:43:11.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "UrunYonetim\\Models\\Product.cs",
+              "ToolTip": "C:\\Acunmedya\\UrunYonetim\\UrunYonetim\\Models\\Product.cs",
+              "RelativeToolTip": "UrunYonetim\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:42:32.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
