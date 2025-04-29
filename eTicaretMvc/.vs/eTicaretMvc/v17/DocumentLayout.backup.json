@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Acunmedya\\eTicaretMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|c:\\acunmedya\\eticaretmvc\\eticaretmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|solutionrelative:eticaretmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|c:\\acunmedya\\eticaretmvc\\eticaretmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|solutionrelative:eticaretmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|c:\\acunmedya\\eticaretmvc\\eticaretmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|solutionrelative:eticaretmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|c:\\acunmedya\\eticaretmvc\\eticaretmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CB8976-2FFC-4D78-86D7-52B8DDC93A54}|eTicaretMvc\\eTicaretMvc.csproj|solutionrelative:eticaretmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Program.cs",
+              "RelativeDocumentMoniker": "eTicaretMvc\\Program.cs",
+              "ToolTip": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Program.cs",
+              "RelativeToolTip": "eTicaretMvc\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:05:30.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "eTicaretMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "eTicaretMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T15:05:05.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eTicaretMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "eTicaretMvc\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:04:10.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "eTicaretMvc\\Models\\Product.cs",
+              "ToolTip": "C:\\Acunmedya\\eTicaretMvc\\eTicaretMvc\\Models\\Product.cs",
+              "RelativeToolTip": "eTicaretMvc\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:03:48.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
